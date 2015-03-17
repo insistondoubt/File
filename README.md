@@ -13,10 +13,10 @@ Most of the vitriol has come from the folks in Beantown, but we've managed to st
 ### Contents
 
 1. [Getting Started with OdysseyJS](#getting-started-with-odysseyjs)
-1.1. [The sandbox](#the-sandbox)
-1.2. [The editor](#that-stuff-in-the-editor) 
-1.3. [The basemap](#changing-your-basemap)
-1.4. [Finishing and sharing](#finishing-up)
+<br>1.1. [The sandbox](#the-sandbox)
+<br>1.2. [The editor](#that-stuff-in-the-editor) 
+<br>1.3. [The basemap](#changing-your-basemap)
+<br>1.4. [Finishing and sharing](#finishing-up)
 2. [Markdown](#-basic-markdown-cheatsheet)
 3. [Boston Resouces](#ammunition-against-boston)
 4. [Lexington Resources](#lexington-rules)
