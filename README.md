@@ -20,7 +20,7 @@ For this March meetup, we are going to try and keep things simple. We will use C
 
 ### The sandbox
 
-The easiest way to get going with OdysseyJS is with their sandbox editor. Think of the sandbox as your place to play around with and build your map. You won't be able to take full advantage of the [(OdysseyJS library)](http://cartodb.github.io/odyssey.js/documentation/), but you'll be able to quickly get creative, do silly things, make mistakes, and do something amazing. The sandbox is pretty good metaphor!
+The easiest way to get going with OdysseyJS is with their sandbox editor. Think of the sandbox as your place to play around with and build your map. You won't be able to take full advantage of the [OdysseyJS library](http://cartodb.github.io/odyssey.js/documentation/), but you'll be able to quickly get creative, do silly things, make mistakes, and do something amazing. The sandbox is pretty good metaphor!
 
 You can find the OdysseyJS sandbox at [http://cartodb.github.io/odyssey.js/sandbox/sandbox.html](http://cartodb.github.io/odyssey.js/sandbox/sandbox.html). 
 When you get to the OdysseyJS sandbox you'll have the opportunity to choose from 3 different templates:
