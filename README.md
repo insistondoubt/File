@@ -1,7 +1,5 @@
 # OdysseeyJS for Squirrels
 
-[link](#-basic-markdown-cheatsheet)
-
 Since our January meetup, wherein we used squirrels as a theme for learning about LeafletJS, maptimeLEX and maptimeBoston, the latter of which is staunchly pro-rat, have been in a protracted #maptimewar. To get caught up to speed, check out the videos below produced by maptimeLEX and maptimeBoston, respectively:
 
 ### Video 1
@@ -11,6 +9,17 @@ Since our January meetup, wherein we used squirrels as a theme for learning abou
 [![Fox News-esque portrayal of squirrel aggression](http://i1185.photobucket.com/albums/z344/buspainter2005/bosrat-false-history_zpswefgcrbj.png)](https://youtu.be/RXqCxNEDZsw)
 
 Most of the vitriol has come from the folks in Beantown, but we've managed to stand our ground pretty well thus far. That said, it's time to go on the offensive!
+
+### Contents
+
+1. [Getting Started with OdysseyJS](#getting-started-with-odysseyjs)
+1.1. [The sandbox](#the-sandbox)
+1.2. [The editor](#that-stuff-in-the-editor) 
+1.3. [The basemap](#changing-your-basemap)
+1.4. [Finishing and sharing](#finishing-up)
+2. [Markdown](#-basic-markdown-cheatsheet)
+3. [Boston Resouces](#ammunition-against-boston)
+4. [Lexington Resources](#lexington-rules)
 
 ## Fighting Back with OdysseyJS
 
@@ -140,7 +149,7 @@ As we mentioned above, the URL for sharing your map is not pretty. Maybe you wan
 
 2. Your project will download as compressed .zip file. Unzip it. Inside is ```index.html```. That's your project! Check it out or upload it to your own host to share via your own domain.
 
-## <a name="section_2"></a> Basic Markdown Cheatsheet
+## Basic Markdown Cheatsheet
 
 ## Ammunition against Boston
 
