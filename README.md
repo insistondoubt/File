@@ -103,7 +103,7 @@ You'll edit your map in the OdysseyJS in the sandbox using Markdown. Markdown is
 - ```#``` The pound/hashtag denotes not only a heading, but also a new state!
 -  ```- ``` You use the dash + space to list the properties of your map position element. The properties of the list items are used to format your map!
 
-We've included a little cheatsheet of some basic Markdown syntax that will help you move beyond these essential elements to add some more custom styling to your map!
+We've included a little [cheatsheet of some basic Markdown syntax](#basic-markdown-cheatsheet) that will help you move beyond these essential elements to add some more custom styling to your map!
 
 ### Changing your basemap
 The default basemap in OdysseyJS is CartoDB Light. It's nice, but may not be the right aesthetic for your project. There are a couple ways to change your basemap
