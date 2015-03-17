@@ -95,13 +95,13 @@ You'll edit your map in the OdysseyJS in the sandbox using Markdown. Markdown is
 
 ##### Basic Markdown for OdysseyJS
 
-- <code>```</code>Three backticks are used a couple of ways: 
+- <code>```</code> Three backticks are used a couple of ways: 
 
 1. At the beginning of your map you'll use two sets of three backticks to bracket your title and author. 
 2. In your states three backticks are used to separate your heading from your map position information and your map position information from your content.
 
-- ```#```The pound/hashtag denotes not only a heading, but also a new state!
--  ```- ```You use the dash + space to list the properties of your map position element. The properties of the list items are used to format your map!
+- ```#``` The pound/hashtag denotes not only a heading, but also a new state!
+-  ```- ``` You use the dash + space to list the properties of your map position element. The properties of the list items are used to format your map!
 
 We've included a little cheatsheet of some basic Markdown syntax that will help you move beyond these essential elements to add some more custom styling to your map!
 
