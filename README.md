@@ -17,7 +17,7 @@ Most of the vitriol has come from the folks in Beantown, but we've managed to st
 <br>1.2. [The editor](#that-stuff-in-the-editor) 
 <br>1.3. [The basemap](#changing-your-basemap)
 <br>1.4. [Finishing and sharing](#finishing-up)
-2. [Markdown](#-basic-markdown-cheatsheet)
+2. [Markdown](#basic-markdown-cheatsheet)
 3. [Boston Resouces](#ammunition-against-boston)
 4. [Lexington Resources](#lexington-rules)
 
