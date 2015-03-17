@@ -148,7 +148,7 @@ As we mentioned above, the URL for sharing your map is not pretty. Maybe you wan
 
 ## Basic Markdown Cheatsheet
 
-Markdown (.md) is a language specifically designed to be quick and easy to both read and to write. When it is read by a browser, it is translated into HTML (hypertext markup langauge, often the language defining the foundational structure of a webpage), however it is also meant to be readable in its plaintext format.
+Markdown (.md) is a language specifically designed to be quick and easy to both read and to write. When it is read by a browser, it is translated into HTML (hypertext markup langauge, often the language used to define the structure of a webpage), however it is also meant to be readable in its plaintext format.
 
 If you're already familiar with Markdown (or HTML) that's great! But note that there are some minor differences between standard markdown and its use in OdysseyJS. Below are some of the most useful elements that you'll be using when interacting with OdysseyJS's editor.
 
