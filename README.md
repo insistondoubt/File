@@ -161,7 +161,7 @@ For more information on Markdown check out [this link](http://daringfireball.net
 - ```*``` or ```_``` Surrounding text with an asterix or underscore italicizes the text.
 - ```**``` or ```__``` Surrounding text with a double asterix or double underscore makes that text bold.
 - ```[text](URL)``` You can link externally by writing the text in square brackets, followed by a URL in regular parentheses.
-- ```![text](URL)``` You can add images in the same way as providing a link, but adding an exclamation point befor the text in equare brackets. In this case the text is not displayed, only providing a metadata reference for your image. 
+- ```![text](URL)``` You can add images in the same way as providing a link, but adding an exclamation point before the text in square brackets. In this case the text is not displayed, only providing a metadata reference for your image. 
 
 ## Ammunition against Boston
 
