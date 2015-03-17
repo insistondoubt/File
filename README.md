@@ -148,6 +148,12 @@ As we mentioned above, the URL for sharing your map is not pretty. Maybe you wan
 
 ## Basic Markdown Cheatsheet
 
+Markdown (.md) is a language specifically designed to be quick and easy both to read and write. When it is read by a browser, it is translated into HTML (hypertext markup langauge, often the language defining the foundational structure of a webpage), however it is also meant to be readable in its plaintext format.
+
+If you're already familiar with Markdown (or HTML) that's great! But note that there are some minor differences between standard markdown and its use in OdysseyJS. Below are some of the most useful syntax that you'll be using when interacting with OdysseyJS's editor.
+
+For more information on Markdown check out [this link](http://daringfireball.net/projects/markdown/) to Daring Fireball's docuementation. Also check out the OdysseyJS documentation on Markdown [here](http://cartodb.github.io/odyssey.js/documentation/#markdown-syntax). 
+
 - <code>```</code> Three sets of backticks should both (1) surround your title and author at the top of the editor, and (2) surround your map position elements. 
 - ```#``` Defines a new state and a makes a large header.
 - ```##``` Defines a smaller header.
